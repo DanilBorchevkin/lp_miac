@@ -1,0 +1,1 @@
+Based on [Onepagelove's Eventoz template](https://onepagelove.com/eventoz)
